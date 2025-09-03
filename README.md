@@ -1,4 +1,4 @@
-# [📞Discord ]([https://t.me/oxie11](https://discord.com/users/1385027223383179284)
+# [📞Discord ]([https://discord.com/users/1385027223383179284])
 <img width="410" height="18" alt="image" src="https://github.com/user-attachments/assets/53e8c283-6fb5-49e3-85d2-af6b45f74716" />
 )
 
