@@ -1,4 +1,4 @@
-# [📞Discord ]([https://discord.com/users/1385027223383179284])
+# [📞Discord ](https://discord.com/users/1385027223383179284)
 # Solana Arbitrage Bot Architecture
 
 ## DEXs supported
